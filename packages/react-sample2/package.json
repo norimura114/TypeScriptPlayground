@@ -1,0 +1,23 @@
+{
+  "name": "@norimura/react-sample2",
+  "version": "1.0.0",
+  "main": "dist/norimura-react-sample2.cjs.js",
+  "module": "dist/norimura-react-sample2.esm.js",
+  "types": "dist/norimura-react-sample2.cjs.d.ts",
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "src"
+  ],
+  "preconstruct": {},
+  "repository": "https://github.com/norimura114/TypeScriptPlayground/tree/master/packages/react-sample2",
+  "dependencies": {
+    "react-sample1": "1.0.0"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
+}

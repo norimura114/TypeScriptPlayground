@@ -1,0 +1,14 @@
+{
+  "name": "react-sample1",
+  "version": "1.0.0",
+  "main": "dist/react-sample1.cjs.js",
+  "module": "dist/react-sample1.esm.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "react": "^17.0.2"
+  },
+  "repository": "https://github.com/norimura114/TypeScriptPlayground/tree/master/packages/react-sample1"
+}
